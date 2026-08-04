@@ -1,25 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" content="specifies UTF-8 as characterset">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="personal website of citizenAlex">
-  <meta name="keywords" content="poetry,writing,spirituality">
-  <title>citizenAlex - heart & soul</title>
-  <link rel="stylesheet" href="css/styles.css" type="text/css">
-</head>
-<body>
-  <header>
-    <h1>citizenAlex - heart & soul</h1>
-    <nav class="site-nav" aria-label="Primary">
-    <a href="index.html" class="active">home</a> ~
-    <a href="metta.html">metta</a> ~
-    <a href="about.html">about</a>
-</nav>
-<hr>
-  </header>
 <!--#include virtual="header.htm" -->
   <main>
+      <section>
+          <p>Craving what will be a more dramatic presentation? Here:<br>
+          <a href="https://tilde.club/~citizenalex" rel="me" title="citizenAlex - heart & soul">tilde.club/~citizenalex</a></p>
+      </section>
       <section role="section">
           <h2>micro blog</h2>
           <a href="https://citizenalex.net/micro.txt" target="_blank" rel="me">micro blog page</a>
@@ -68,18 +52,22 @@
       <h2>other places</h2>
       <ul>
           <li>Political site: <a href="https://citizenalex.net" target="_blank" title="citizenalex.net" rel="me">https://citizenalex.net</a></li>
-          <li>Gemini site: gemini://twentytwo.town/~citizenalex</li>
+          <li>Gemini site: gemini://envs.net/~citizenalex</li>
           <li>Gopher archive: gopher://sdf.org/1/users/citizenalex</li>
       </ul>
     </section>
+    <section>
+        <h2>guestbook</h2>
+        <p>
+        Please sign my <a href="https://citizenalex.envs.net/guestform.html" title="citizenAlex guestbook">guestbook</a>
+        </p>
+        <p>
+        View <a href="https://citizenalex.envs.net/guestbook.txt" target="_blank" title="guestbook entries">guestbook entries</a>
+        </p>
+    </section>
     <section role="section">
-<strong>email:</strong> citizenalex@citizenalex.net<br>
+<strong>email:</strong> citizenalex@envs.net<br>
 <strong>matrix:</strong> @citizenalex:matrix.org
     </section>
   </main>
-
-  <footer>
-    <p>Built with ❤️ using HTML & CSS.</p>
-  </footer>
-</body>
-</html>
+<!--#include virtual="footer.htm" -->
