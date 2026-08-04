@@ -1,0 +1,9 @@
+User-agent: Ariadne
+User-agent: Wibybot
+User-agent: MojeekBot
+User-agent: DuckDuckBot
+User-agent: search.marginalia.nu
+Disallow:
+
+User-agent: *
+Disallow: /

@@ -1,0 +1,50 @@
+# nick = citizenalex 
+# web = https://citizenalex.envs.net  
+# web = https://citizenalex.net 
+# gemini = gemini://envs.net/~citizenalex
+# gemini = gemini://gemini.citizenalex.net
+# mastodon = @citizenalex@sdf.org 
+2026-06-26T02:14:02+00:00	Its been a long day and time for bed.
+2026-06-26T02:52:04+00:00	I think I'll look at this: https://twtxt.net/
+2026-06-26T05:08:19+00:00	Still haven't gone to bed.
+2026-06-26T10:09:52+00:00	Up again
+2026-06-26T12:02:28+00:00	I have to say I quite like the current design.
+2026-06-26T15:11:00+00:00	Ooof! Monkey mind is for real!
+2026-06-26T15:15:24+00:00	Making good progress shifting over my sites to envs.net
+2026-06-26T23:33:42+00:00	Successful day at work. Relatively. Making dinner. Glad to have a rest.
+2026-06-27T10:57:56+00:00	Chatting and trying to learn cgi
+2026-06-27T11:21:03+00:00	I'm so pleased. I ran my first cgi script!
+2026-06-28T01:14:27+00:00	Good day of home maintenance things. Now relaxing
+2026-06-28T09:53:10+00:00	Will learn some pixel art today
+2026-06-28T11:19:29+00:00	but not before I make edits to my website and gemini capsule
+2026-06-29T03:52:28+00:00	Another productive day...tho there is always the nagging thought that i should have done more
+2026-06-29T10:39:11+00:00	Getting ready to start the week
+2026-06-30T16:41:51+00:00	I think setting up Keyoxide is going to be a next step for me.
+2026-07-01T08:17:01+00:00	Up earlier than I like but the upside is that I can do more of what I like.
+2026-07-01T09:50:39+00:00	Adding 'How to be a dissident' by Gal Beckerman to my 'to read' list
+2026-07-01T11:17:21+00:00	Up on on Akkoma on envs.net
+2026-07-01T11:28:24+00:00	@<bender https://twtxt.net/user/bender/twtxt.txt> yes weechat is indeed awesome. also, like the email in a bottle image
+2026-07-01T15:09:27+00:00	coffee. then work. the correct order of things.
+2026-07-01T15:52:46+00:00	Attending to the suffering of others is partly about listening to what wells up within us.
+2026-07-02T11:16:25+00:00	It's all energy. Physical energy. Mental energy. Financial energy. 
+2026-07-02T11:18:30+00:00	The question: where are you going to spend your energy today?
+2026-07-02T15:52:40+00:00	The heat is **AGGRESSIVE**
+2026-07-03T06:17:47+00:00	time for bed
+2026-07-03T11:26:47+00:00	back at it!
+2026-07-03T12:17:27+00:00	Time to do accounting things
+2026-07-03T22:26:41+00:00	good day today
+2026-07-04T05:00:04+00:00	set alacritty and neovim to catpuccin
+2026-07-04T05:01:27+00:00	i mean catppuccin, of course
+2026-07-04T11:47:58+00:00	Going to be working on a web form today
+2026-07-04T16:02:43+00:00	I'm making progress on my basic guestbook python code.
+2026-07-05T04:26:39+00:00	Added a poem - https://citizenalex.envs.net/steps.html
+2026-07-06T00:26:21+00:00	Trying to get some last few things done.
+2026-07-06T15:25:45+00:00	pain is a thing today
+2026-07-07T07:32:48+00:00	early to rise
+2026-07-07T09:50:34+00:00	off to a productive start
+2026-07-08T09:57:04+00:00	getting into Caves of Qud though I keep dying.
+2026-07-09T23:54:34+00:00	Did some regex learning today.
+2026-07-10T09:16:55+00:00	I'd much rather dive into this digital world.
+2026-07-11T11:37:53+00:00	'Trying to change something changes the person who tries.' -Christopher Armitage
+2026-07-15T11:37:30+00:00	I'm now in the css portion of The Odin Project foundations
+2026-07-16T15:06:03+00:00	pleased to be new tilde.club member
