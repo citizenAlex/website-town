@@ -1,0 +1,2 @@
+Version: 3.12
+GSS$>GCS d-- s:++ a++ C++(+++) UBSD-/UL++ P L+++ E-

@@ -1,0 +1,68 @@
+:root {
+  color-scheme: light dark;
+}
+
+html { font-size: 100% }
+h1 { font-size: 2rem }
+h2 { font-size: 1.6rem }
+h3 { font-size: 1.2rem }
+small { font-size: 0.8rem }
+
+body {
+  font-family: "Segoe UI", Roboto, sans-serif;
+  margin: 0;
+}
+header {
+  margin: 0 auto;
+  padding: 24px;
+  text-align: center;
+}
+main {
+  max-width: 80ch;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+section {
+  padding: 10px;
+}
+section h2 {
+  margin-top: 0;
+}
+footer {
+  padding: 24px;
+  text-align: center;
+}
+
+img {
+      max-width: 600px; 
+}
+
+.line-block {
+    white-space: pre-wrap;
+}
+
+#statuscafe {
+    padding: .5em;
+    border: 1px solid black;
+}
+
+#statuscafe-username {
+    margin-bottom: .5em;
+}
+
+#statuscafe-content {
+    margin: 0 1em 0.5em 1em;
+}
+
+
+
+.guestbook {
+    display:grid;
+    gap:1rem;
+}
+
+.guestbook button {
+    background: #fff600;
+    color: #000000;
+    font-weight:600;
+}
