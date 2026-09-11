@@ -2,4 +2,4 @@ cgi-bin/
 guestform.html
 moderation.txt
 guestbook.txt
-*.html
+*.html~
